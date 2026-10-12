@@ -1,0 +1,6 @@
+allowBuilds:
+  4.149.0: true
+  esbuild: set this to true or false
+  pnpm: set this to true or false
+  workerd: set this to true or false
+  wrangler: true

@@ -1,18 +1,1 @@
-{
-"name": "drive.elparadisogonzalo.net",
-"version": "1.0.0",
-"description": "",
-"master": "au_uu_SzH34yR2.mp3",
-"scripts": {
-"test": "npm install",
-"build": "mkdir -p dist && cp index.html dist/ && cp -r au_uu_SzH34yR2.mp3 dist/",
-"deploy": "npm run build"
-},
-"repository": {
-"type": "git",
-"url": "git+https://github.com/azehagowa-creator/drive.elparadisogonzalo.net.git"
-},
-"author": "Elparadisogonzalo",
-"license": "ISC",
-"homepage": "https://drive.elparadisogonzalo.net"
-}
+{"name":"drive.elparadisogonzalo.net","version":"1.0.0","description":"","master":"au_uu_SzH34yR2.mp3","scripts":{"test":"npm install","build":"mkdir -p dist && cp index.html dist/ && cp -r au_uu_SzH34yR2.mp3 dist/","deploy":"npm run build"},"repository":{"type":"git","url":"git+https://github.com/azehagowa-creator/drive.elparadisogonzalo.net.git"},"author":"Elparadisogonzalo","license":"ISC","homepage":"https://drive.elparadisogonzalo.net","dependencies":{"pnpm":"^12.11.2"},"devDependencies":{"wrangler":"^4.149.0"}}
