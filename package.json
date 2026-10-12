@@ -1,0 +1,19 @@
+{
+  "name": "drive.elparadisogonzalo.net",
+  "version": "1.0.0",
+  "description": "",
+  "main": "au_uu_SzH34yR2.mp3",
+  "scripts": {
+    "test": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azehagowa-creator/drive.elparadisogonzalo.net.git"
+  },
+  "author": "Elparadisogonzalo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azehagowa-creator/drive.elparadisogonzalo.net/issues"
+  },
+  "homepage": "https://github.com/azehagowa-creator/drive.elparadisogonzalo.net#readme"
+}
